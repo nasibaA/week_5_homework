@@ -1,2 +1,2 @@
 # week_5_homework
-![Plot 1](image_w.png)
+![Plot 1](City latitude vs. Max Temperature.png)
